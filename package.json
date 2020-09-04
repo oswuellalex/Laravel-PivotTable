@@ -17,7 +17,7 @@
         "jquery-ui": "^1.12.1",
         "laravel-mix": "^4.0.7",
         "lodash": "^4.17.13",
-        "papaparse": "^5.1.1",
+        "papaparse": "^5.2.0",
         "pivottable": "^2.23.0",
         "popper.js": "^1.12",
         "resolve-url-loader": "^2.3.1",
@@ -27,7 +27,7 @@
         "vue-template-compiler": "^2.6.11"
     },
     "dependencies": {
-        "papaparse": "^5.1.1",
+        "papaparse": "^5.2.0",
         "pivottable": "^2.23.0"
     }
 }
